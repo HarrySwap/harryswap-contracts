@@ -106,3 +106,4 @@ dist
 # Others
 .idea/
 package-lock.json
+build/
